@@ -1,2 +1,15 @@
-# VRND_A-Maze
-VR娓告垙--杩峰锛屽湪杩峰涓敹闆嗗埌瓒冲鐨勯噾甯侊紝鐒跺悗鎵惧埌鍑鸿矾
+# A Maze Project 迷宫项目
+
+项目来源：
+
+This project is part of [Udacity](https://www.udacity.com "Udacity - Be in demand")'s [VR Developer Nanodegree](https://www.udacity.com/course/vr-developer-nanodegree--nd017).
+
+## Screenshot
+
+![screenshot1](images/1.jpg)
+
+![screenshot1](images/2.jpg)
+
+## Versions
+- Unity 2017.1.0p4
+- GVR Unity SDK v1.70.0
